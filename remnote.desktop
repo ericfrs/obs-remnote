@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RemNote
+Exec=/usr/bin/remnote %U
+Terminal=false
+Type=Application
+Icon=remnote
+StartupWMClass=RemNote
+Comment=All-in-one workspace for note-taking, learning, and knowledge management
+MimeType=x-scheme-handler/remnote;x-scheme-handler/rn;
+Categories=Office;Education;
